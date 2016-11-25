@@ -14,17 +14,17 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "babel": "^5.6.14",
-    "babel-eslint": "^4.1.4",
+    "babel": "^6.5.2",
+    "babel-eslint": "^7.1.1",
     "commitizen": "^2.5.0",
-    "eslint": "^1.9.0",
-    "hyperscript": "^1.4.6",
-    "jsverify": "^0.6.0",
-    "lodash": "^3.10.0",
-    "mocha": "^2.2.5",
+    "eslint": "^3.10.2",
+    "hyperscript": "^2.0.2",
+    "jsverify": "^0.7.4",
+    "lodash": "^4.17.2",
+    "mocha": "^3.2.0",
     "rb-conventional-changelog": "^1.1.9",
-    "react": "^0.14.2",
-    "validate-commit-msg": "^1.1.0"
+    "react": "^15.4.1",
+    "validate-commit-msg": "^2.8.2"
   },
   "scripts": {
     "lint": "./node_modules/.bin/eslint src/",
